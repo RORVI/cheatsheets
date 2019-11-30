@@ -11,10 +11,10 @@ Emmet is a plug-in for speeding up development with HTML, CSS, XML, and most der
 * sass files (*.less* extension)
 
 ## Where can you find out more about Emmet?
-* [Visual Studio Code Emmet docs] (https://code.visualstudio.com/docs)
-* [Giant Emmet Cheat Sheet] (https://docs.emmet.io/cheat-sheet/)
-* [Official Emmet Documentation] (https://docs.emmet.io/)
-* [Awesome YouTube Tutorial] (https://www.youtube.com/watch?v=EcN9dXYaERY)
+* [Visual Studio Code Emmet docs](https://code.visualstudio.com/docs)
+* [Giant Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
+* [Official Emmet Documentation](https://docs.emmet.io/)
+* [Awesome YouTube Tutorial](https://www.youtube.com/watch?v=EcN9dXYaERY)
 
 ##What I've learned so far:
 
