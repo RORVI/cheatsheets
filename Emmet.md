@@ -9,7 +9,7 @@ Emmet is a plug-in for speeding up development with HTML, CSS, XML, and most der
 * XML files (*.xml* extension)
 * less files (*.scss* extension)
 * sass files (*.less* extension)
-Some clarifications regarding usage can be found in the [^1] and [^2] footnotes.
+Some clarifications regarding usage can be found in the <sup>1</sup> and <sup>2</sup> footnotes.
 
 ## What I've learned so far:
 
@@ -149,6 +149,6 @@ will generate
 * [Awesome YouTube Tutorial](https://www.youtube.com/watch?v=EcN9dXYaERY)
 
 
-[^1]: The shortcuts will take effect once the *TAB* key has been pressed.
+<sup>1</sup> The shortcuts will take effect once the *TAB* key has been pressed.
 
-[^2]: Sometimes, in certain contexts (complicated structures), these structures might not take effect. Refer to the official documentation for clarifications or use simpler structures to avoid wasting time.
+<sup>2</sup> Sometimes, in certain contexts (complicated structures), these structures might not take effect. Refer to the official documentation for clarifications or use simpler structures to avoid wasting time.
