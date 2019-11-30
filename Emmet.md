@@ -148,6 +148,7 @@ will generate
 * [Official Emmet Documentation](https://docs.emmet.io/)
 * [Awesome YouTube Tutorial](https://www.youtube.com/watch?v=EcN9dXYaERY)
 
+#
 
 <sup>1</sup> The shortcuts will take effect once the *TAB* key has been pressed.
 
