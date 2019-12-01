@@ -106,5 +106,22 @@ This makes the editor highly customizable, and these settings can be easily move
 
 #
 
+## Shortcuts
+
+**`Ctrl`** + **`w`** for editing the word inside which the cursor is.
+
+**`Ctrl`** + **`F4`** for closing the current document.
+
+**`Ctrl`** + **`k`**, **`Ctrl`** + **`f`** for “beautifying” code.
+
+**`Ctrl`** + **`r`**, **`Ctrl`** + **`g`** for removing unused references.
+
+**`Alt`** + **`Shift`** + **`w`** for wrapping front-end code in div tags.
+
+**`Ctrl`** + **`Alt`** + **`Enter`** for refreshing the page that you’re working on.
+
+
+#
+
 ## Compound debugging and tasks in Visual Studio Code
 
