@@ -1,8 +1,8 @@
-<p align="center">
-  <img src="https://drive.google.com/open?id=1KH4-yJ2dWylslI4lsNzlm28BecbNE55x">
-</p>
 
-<img align="left" src="https://drive.google.com/open?id=1M1-mY_Z_kj62SoKikTP2birJc-b7tSo0">
+![Title](cheatsheet-title.png)
+
+
+![Project structure](project-structure.png)
 
 ## A git project has three parts:
 * **`working directory`**, which is the actual work directory, where you get work done
@@ -10,7 +10,7 @@
 * **`repository`**, which is the place where your changes get stored into
 
 
-<img align="left" src="https://drive.google.com/open?id=1c2SsY2icijjo76E0hmpAfbgA-FchlAHL">
+![Commands](commands.png)
 
 **`git init`** -> used for initializing the repository locally
 
@@ -49,7 +49,7 @@
 **`git push origin <branch_name>`** -> is used for merging the local changes to the remote repository.
 
 
-<img align="left" src="https://drive.google.com/open?id=1Iy05Spq9Ay5SzWSSv9GS_qDd_0LA-9hn">
+![Workflow](workflow.jpg)
 ## The flow of working with Git:
 1. **`Fetch and merge`** changes from the remote
 1. **`Create a branch`** to work on a new project feature
