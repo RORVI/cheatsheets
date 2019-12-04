@@ -1,6 +1,9 @@
 
 ![Title](https://github.com/RORVI/cheatsheets/blob/master/Git/images/cheatsheet-title.png?raw=true)
 
+<p>
+    <img align="center" src="https://github.com/RORVI/cheatsheets/blob/master/Git/images/cheatsheet-title.png?raw=true"/>
+</p>
 
 ![Project structure](https://github.com/RORVI/cheatsheets/blob/master/Git/images/project-structure.png?raw=true)
 
