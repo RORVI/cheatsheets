@@ -1,8 +1,8 @@
 
-![Title](cheatsheet-title.png)
+![Title](https://github.com/RORVI/cheatsheets/blob/master/Git/images/cheatsheet-title.png?raw=true)
 
 
-![Project structure](project-structure.png)
+![Project structure](https://github.com/RORVI/cheatsheets/blob/master/Git/images/project-structure.png?raw=true)
 
 ## A git project has three parts:
 * **`working directory`**, which is the actual work directory, where you get work done
@@ -10,7 +10,7 @@
 * **`repository`**, which is the place where your changes get stored into
 
 
-![Commands](commands.png)
+![Commands](https://github.com/RORVI/cheatsheets/blob/master/Git/images/commands.png?raw=true)
 
 **`git init`** -> used for initializing the repository locally
 
@@ -49,7 +49,7 @@
 **`git push origin <branch_name>`** -> is used for merging the local changes to the remote repository.
 
 
-![Workflow](workflow.jpg)
+![Workflow](https://github.com/RORVI/cheatsheets/blob/master/Git/images/workflow.jpg?raw=true)
 ## The flow of working with Git:
 1. **`Fetch and merge`** changes from the remote
 1. **`Create a branch`** to work on a new project feature
