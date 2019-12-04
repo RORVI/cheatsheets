@@ -1,6 +1,6 @@
 
-<p>
-    <img src="https://github.com/RORVI/cheatsheets/blob/master/Git/images/cheatsheet-title.png?raw=true"  align="center" width="500" height="300">
+<p align="center">
+    <img src="https://github.com/RORVI/cheatsheets/blob/master/Git/images/cheatsheet-title.png?raw=true" width="500" height="300">
 </p>
 
 ![Project structure](https://github.com/RORVI/cheatsheets/blob/master/Git/images/project-structure.png?raw=true)
