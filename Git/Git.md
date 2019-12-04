@@ -1,8 +1,8 @@
 <p align="center">
-    <img src="https://github.com/RORVI/cheatsheets/blob/master/Git/images/cheatsheet-title.png?raw=true"width="350" height="130">
+    <img src="https://github.com/RORVI/cheatsheets/blob/master/Git/images/cheatsheet-title.png?raw=true" width="350" height="130">
 </p>
 
-<img src="https://github.com/RORVI/cheatsheets/blob/master/Git/images/project-structure.png?raw=true" width="250" height="150">
+<img src="https://github.com/RORVI/cheatsheets/blob/master/Git/images/project-structure.png?raw=true" width="350" height="150">
 
 ## A git project has three parts:
 * **`working directory`**, which is the actual work directory, where you get work done
