@@ -5,6 +5,7 @@
 <img src="https://github.com/RORVI/cheatsheets/blob/master/Git/images/project-structure.png?raw=true" width="350" height="150">
 
 ## A git project has three parts:
+
 * **`working directory`**, which is the actual work directory, where you get work done
 * **`staging area`**, which contains the list of changes made to the working directory
 * **`repository`**, which is the place where your changes get stored into
