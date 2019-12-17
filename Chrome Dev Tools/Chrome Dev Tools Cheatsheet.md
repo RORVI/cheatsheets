@@ -2,37 +2,38 @@
 Based on the way output can be done in C, the developer tools support output formatting with
 specifiers, like this:
 
-<table>
-    <tr>
-        <td>## Format specifier</td>
-        <td>## Description</td>
-    </tr>
-
-    <tr>
-        <td>**`%s`**</td>
-        <td>String</td>
-    </tr>
-    <tr>
-        <td>**`%d`** or **`%i`**</td>
-        <td>Integer</td>
-    </tr>
-    <tr>
-        <td>**`%f`**</td>
-        <td>Floating point value</td>
-    </tr>
-    <tr>
-        <td>**`%o`**</td>
-        <td>Expandable raw DOM element</td>
-    </tr>
-    <tr>
-        <td>**`%O`**</td>
-        <td>Expandable Javascript object</td>
-    </tr>
-    <tr>
-        <td>**`%c`**</td>
-        <td>Will format the output according to the provided CSS style</td>
-    </tr>
-</table>
+<pre>
+    <table>
+        <tr>
+            <td>## Format specifier</td>
+            <td>## Description</td>
+        </tr>
+        <tr>
+            <td>**`%s`**</td>
+            <td>String</td>
+        </tr>
+        <tr>
+            <td>**`%d`** or **`%i`**</td>
+            <td>Integer</td>
+        </tr>
+        <tr>
+            <td>**`%f`**</td>
+            <td>Floating point value</td>
+        </tr>
+        <tr>
+            <td>**`%o`**</td>
+            <td>Expandable raw DOM element</td>
+        </tr>
+        <tr>
+            <td>**`%O`**</td>
+            <td>Expandable Javascript object</td>
+        </tr>
+        <tr>
+            <td>**`%c`**</td>
+            <td>Will format the output according to the provided CSS style</td>
+        </tr>
+    </table>
+</pre>
 
 #
 
